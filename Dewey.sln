@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dewey", "Dewey\Dewey.csproj", "{3EC22468-F717-4D37-953E-B00E2F3060DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC22468-F717-4D37-953E-B00E2F3060DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EC22468-F717-4D37-953E-B00E2F3060DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EC22468-F717-4D37-953E-B00E2F3060DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EC22468-F717-4D37-953E-B00E2F3060DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA56410-289B-4A09-B131-C8458A1EBF2A}
+	EndGlobalSection
+EndGlobal
