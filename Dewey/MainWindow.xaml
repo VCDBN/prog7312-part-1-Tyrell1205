@@ -17,7 +17,7 @@
         <!-- Panel for additional buttons -->
         <StackPanel x:Name="additionalButtonsPanel" HorizontalAlignment="Center" VerticalAlignment="Center" Background="White" Opacity="0.9" Height="414" Width="800">
             <Button Content="Replacing books" Width="150" Height="30" Margin="10" Click="ReplacingBooks_Click"/>
-            <Button Content="Identifying areas" Width="150" Height="30" Margin="10" IsEnabled="False"/>
+            <Button Content="Identifying areas" Width="150" Height="30" Margin="10"  Click="IdentifyingAreas_Click"/>
             <Button Content="Finding call numbers" Width="150" Height="30" Margin="10" IsEnabled="False"/>
         </StackPanel>
     </Grid>

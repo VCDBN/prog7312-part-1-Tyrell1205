@@ -140,6 +140,14 @@ namespace Dewey
 
         }
 
+        private void IdentifyingAreas_Click(object sender, RoutedEventArgs e)
+        {
+
+            IdentifyingAreas IA = new IdentifyingAreas();
+            IA.Show();
+
+        }
+
         // Method to check users answers
         private void CheckButton_Click(object sender, RoutedEventArgs e)
         {
