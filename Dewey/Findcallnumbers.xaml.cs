@@ -39,7 +39,7 @@ namespace Dewey
         {
             InitializeComponent();
         }
-        void shuffle() //a list shuffle
+        void shuffle() //a list shuffle. Code was developed with the help of FallenWorldStudios on youtube, you can find it at: https://youtu.be/EvPVtKryspY?si=IGhG1BCDybleMU18
         {
             int lastIndex = mylist.Count() - 1;
             while (lastIndex > 0)
