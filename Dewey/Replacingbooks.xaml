@@ -12,6 +12,7 @@
         <Button Content="Add" HorizontalAlignment="Center" VerticalAlignment="Center" Width="75" Margin="0,200,0,0" Click="AddButton_Click"/>
         <Button Content="Remove" HorizontalAlignment="Center" VerticalAlignment="Top" Width="75" Margin="0,332,0,0" Click="RemoveButton_Click"/>
         <Button Content="Check" HorizontalAlignment="Center" VerticalAlignment="Top" Width="76" Margin="0,361,0,0" Click="CheckButton_Click"/>
+        <Button Content="Home" HorizontalAlignment="Center" VerticalAlignment="Top" Width="76" Margin="0,391,0,0" Click="homebtn_Click"/>
 
     </Grid>
 </Window>

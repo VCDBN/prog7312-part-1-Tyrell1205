@@ -163,5 +163,11 @@ namespace Dewey
             }
         }
 
+        private void homebtn_Click(object sender, RoutedEventArgs e)
+        {
+            MainWindow MW = new MainWindow();
+            MW.Show();
+        }
+
     }
 }
