@@ -240,7 +240,14 @@ namespace Dewey
 
         private void replaybtn_Click(object sender, RoutedEventArgs e)
         {
-            //back to main menu to play again
+            //takes to the alternate way of playing
+            this.Hide();
+            AlternateIA IA = new AlternateIA();
+            IA.Show();
+        }
+
+        private void homebtn_Click(object sender, RoutedEventArgs e)
+        {
             this.Hide();
             MainWindow IA = new MainWindow();
             IA.Show();
