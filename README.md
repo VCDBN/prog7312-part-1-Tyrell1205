@@ -1,6 +1,9 @@
 # prog7312-part-1-Tyrell1205
 prog7312-part-1-Tyrell1205 created by GitHub Classroom
 
+[README_PART2.pdf](https://github.com/VCDBN/prog7312-part-1-Tyrell1205/files/13179671/README_PART2.pdf)
+
+
 Dewey Application Readme
 The Dewey application is a simple educational tool for practicing the sorting of call numbers. Users are presented with a list of randomly generated call numbers and must arrange them in the correct order. The application uses a scoring system to provide feedback to users.
 
