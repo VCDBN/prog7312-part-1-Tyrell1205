@@ -65,8 +65,8 @@
     </Window.Resources>
     <Grid>
         <Label Content="Find call numbers" HorizontalAlignment="Left" Margin="252,0,0,0" VerticalAlignment="Top" FontSize="59"  />
-        <Label Content="Press Start, to play, Submit to confirm your answers, Clear to remove current" HorizontalAlignment="Left" Margin="252,88,0,0" VerticalAlignment="Top" FontSize="15" Width="514"/>
-        <Label Content="answer. first select answer from pink box, then green box, when instructed" HorizontalAlignment="Left" Margin="252,106,0,0" VerticalAlignment="Top" FontSize="15" Width="514"/>
+        <Label Content="Press Start, to play, Submit to confirm your answers, Replay to play again" HorizontalAlignment="Left" Margin="252,88,0,0" VerticalAlignment="Top" FontSize="15" Width="514"/>
+        <Label Content="First select answer from pink box, then green box, when instructed" HorizontalAlignment="Left" Margin="252,106,0,0" VerticalAlignment="Top" FontSize="15" Width="514"/>
         <TextBox x:Name="descriptiontb" HorizontalAlignment="Left" Margin="44,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="15"/>
         <TextBox x:Name="answertb" HorizontalAlignment="Left" Margin="192,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" FontSize="15"/>
         <ListBox x:Name="listbox1" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="350,151,285,15" SelectionChanged="listbox1_SelectionChanged"  Background="LightPink" FontSize="15"/>
